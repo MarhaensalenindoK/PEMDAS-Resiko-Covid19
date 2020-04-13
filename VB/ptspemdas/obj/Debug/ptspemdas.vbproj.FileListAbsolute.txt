@@ -1,0 +1,13 @@
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\bin\Debug\ptspemdas.exe.config
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\bin\Debug\ptspemdas.exe
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\bin\Debug\ptspemdas.pdb
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\bin\Debug\ptspemdas.xml
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.vbprojAssemblyReference.cache
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.Form1.resources
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.Resources.resources
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.vbproj.GenerateResource.cache
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.exe
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.xml
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.pdb
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.Form2.resources
+C:\Users\Abi Komara\Documents\SEMUA TUGAS MARHAEN\TUGAS SELAMA LIBUR\PTS PEMDAS\VB\ptspemdas\obj\Debug\ptspemdas.Form3.resources
